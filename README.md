@@ -26,7 +26,7 @@ The following are some global research internship positions:
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-
+21. [Agmen Scholarship, University of Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
 
 
 The following are some research internships for Indian students:
@@ -42,3 +42,4 @@ The following are some research internships for Indian students:
 9. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
 10. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+12. [Summer Research Fellowship Programme 2018](http://web-japps.ias.ac.in:8080/fellowship2018/index.html), IISc, IAS, INS
