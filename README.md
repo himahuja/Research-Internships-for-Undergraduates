@@ -1,8 +1,8 @@
-# Research Internship for Indian Undergraduates
+# Research Internship for Undergraduates
 
 #### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
 
-I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the README.md is raised as an issue will be timely reviewed and added.
+I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become redundant! I'll make sure that any such modification in the `README.md` raised as an issue will be timely reviewed and added.
 
 The following are some global research internship positions:
 
