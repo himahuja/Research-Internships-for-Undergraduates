@@ -27,6 +27,7 @@ The following are some global research internship positions:
 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 21. [Agmen Scholarship, University of Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
+22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 
 
 The following are some research internships for Indian students:
