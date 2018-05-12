@@ -44,5 +44,5 @@ The following are some research internships for Indian students:
 10. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
 12. [Summer Research Fellowship Programme 2018](http://web-japps.ias.ac.in:8080/fellowship2018/index.html), IISc, IAS, INS
-13. [Quantitative Research Summer Internship] (https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/) WorldQuant India
+13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 
