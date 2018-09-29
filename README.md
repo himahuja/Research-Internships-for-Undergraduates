@@ -35,6 +35,7 @@ The following are some global research internship positions:
 The following are some research internships for Indian students:
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
+1. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 2. [Viterbi India Program](http://iusstf.org/story/53-51-IUSSTF-Viterbi-Program.html), sponsored by IUSSTF and USC Viterbi
 3. [Khorana Program for Scholars](http://iusstf.org/story/53-50-Khorana-Program.html), sponsored by IUSSTF
 4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
