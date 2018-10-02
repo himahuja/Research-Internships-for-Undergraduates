@@ -30,7 +30,7 @@ The following are some global research internship positions:
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 23. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
-
+25. [OIST Research Internship Program](https://groups.oist.jp/grad/research-interns), Okinawa Institute of Science and Technology
 
 The following are some research internships for Indian students:
 
@@ -48,4 +48,5 @@ The following are some research internships for Indian students:
 11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
 12. [Summer Research Fellowship Programme 2018](http://web-japps.ias.ac.in:8080/fellowship2018/index.html), IISc, IAS, INS
 13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
-
+14. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
+15. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
