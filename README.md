@@ -51,3 +51,4 @@ The following are some research internships for Indian students:
 13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 14. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
 15. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
+16. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
