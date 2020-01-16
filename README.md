@@ -32,6 +32,8 @@ The following are some global research internship positions:
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
 25. [OIST Research Internship Program](https://groups.oist.jp/grad/research-interns), Okinawa Institute of Science and Technology
 26. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
+27. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute.
+
 
 The following are some research internships for Indian students:
 
