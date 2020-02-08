@@ -55,3 +55,4 @@ The following are some research internships for Indian students:
 15. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
 16. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 17. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
+18. [IITM - Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
