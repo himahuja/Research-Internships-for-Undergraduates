@@ -7,7 +7,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 The following are some global research internship positions:
 
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-2. [DAAD Wise Scholarship](https://www.daad.de/deutschland/stipendium/datenbank/en/15342-you-are-interested-in-a-daad-scholarship/), for research positions in Germany
+2. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
