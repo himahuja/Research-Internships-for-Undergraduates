@@ -42,7 +42,7 @@ The following are some research internships for Indian students:
 2. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 3. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
 4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
-5. [Charpak Global Scholarship](http://www.inde.campusfrance.org/en/page/charpak-research-internship-program), funded by French Embassy in India
+5. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 6. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
 7. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
 8. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
