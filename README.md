@@ -7,7 +7,6 @@ I am making this list as an attempt to fill the void of any such open source lis
 The following are some global research internship positions:
 
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-2. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
 5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
@@ -39,6 +38,7 @@ The following are some global research internship positions:
 The following are some research internships for Indian students:
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
+2. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 1. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 2. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 3. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
