@@ -34,6 +34,7 @@ The following are some global research internship positions:
 27. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 28. The Smithsonian Institution Fellowship Program (SIFP)(https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
 27. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute.
+28. [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
 The following are some research internships for Indian students:
 
