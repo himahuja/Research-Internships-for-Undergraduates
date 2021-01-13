@@ -1,4 +1,4 @@
-# Research Internship for Undergraduates
+# Research Internships for Undergraduates
 
 #### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
 
