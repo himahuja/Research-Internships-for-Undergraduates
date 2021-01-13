@@ -9,7 +9,7 @@ The following are some global research internship positions:
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
-5. [CRUISE Program](https://www.cse.gatech.edu/research/cruise) by Georgia Tech University
+5. ~~CRUISE Program by Georgia Tech University~~
 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
