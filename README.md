@@ -36,6 +36,7 @@ The following are some global research internship positions:
 27. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute.
 28. [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 29. [Aalto Science Institute (AScI) Summer Trainees 2021](https://www.aalto.fi/en/open-positions/aalto-science-institute-asci-summer-trainees-2021)
+30. [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
 
 The following are some research internships for Indian students:
 
