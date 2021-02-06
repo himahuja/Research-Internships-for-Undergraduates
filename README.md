@@ -17,7 +17,7 @@ The following are some global research internship positions:
 10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/schools/research-experiences-undergraduates)
 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
-13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Agmen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
+13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
 14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
 16. [CERN Summer Student Program](https://careers.cern/summer)  
@@ -25,7 +25,7 @@ The following are some global research internship positions:
 18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
-21. [Agmen Scholarship, University of Tokyo](https://www.u-tokyo.ac.jp/en/prospective-students/amgen_program.html)
+21. [Amgen Scholars Program](amgenscholars.com/asia-program)
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 23. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
