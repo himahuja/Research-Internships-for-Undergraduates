@@ -41,24 +41,26 @@ The following are some research internships for Indian students:
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
 2. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
-1. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
-2. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
-3. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
-4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
-5. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
-6. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
-7. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
-8. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
-9. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
-10. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
-11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
-12. [Summer Research Fellowship Programme 2021](https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp), IISc, IAS, INS
-13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
-14. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
-15. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
-16. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
-17. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
-18. [IITM - Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
-19. [Cisco Summer internship](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)
-20. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
-21. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
+3. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
+4. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
+5. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
+6. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
+7. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
+8. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
+9. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
+10. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
+11. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
+12. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
+13. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+14. [Summer Research Fellowship Programme 2021](https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp), IISc, IAS, INS
+15. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
+16. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
+17. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
+18. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
+19. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
+20. [IITM - Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
+21. [Cisco Summer internship](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)
+22. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
+23. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
+24. [Eklavya research internship by IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/) 
+
