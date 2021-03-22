@@ -57,8 +57,8 @@ The following are some research internships for Indian students:
 12. [Summer Research Fellowship Programme 2021](https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp), IISc, IAS, INS
 13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 14. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
-15. [IITK SURGE Program](https://www.iitk.ac.in/dord/surge), IIT Kanpur
-16. [Internhip At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
+15. [IITK SURGE Program](http://surge.iitk.ac.in/about.html), IIT Kanpur
+16. [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 17. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
 18. [IITM - Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
 19. [Cisco Summer internship](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)
