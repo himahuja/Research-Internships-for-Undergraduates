@@ -66,3 +66,5 @@ The following are some research internships for Indian students:
 20. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
 21. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 22. [Eklavya research internship by IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/).
+23. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
+
