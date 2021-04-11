@@ -54,7 +54,7 @@ The following are some research internships for Indian students:
 8. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
 9. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
 10. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
-11. [IIITD Summer Intersnhip](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
+11. [IIITD Summer Internship](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
 12. [Summer Research Fellowship Programme 2021](https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp), IISc, IAS, INS
 13. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 14. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
@@ -66,3 +66,6 @@ The following are some research internships for Indian students:
 20. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
 21. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 22. [Eklavya research internship by IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/).
+23. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
+24. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
+
