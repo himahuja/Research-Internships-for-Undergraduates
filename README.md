@@ -68,4 +68,5 @@ The following are some research internships for Indian students:
 22. [Eklavya research internship by IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/).
 23. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
 24. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
+25. [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/), IISER Kolkata
 
