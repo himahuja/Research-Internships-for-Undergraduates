@@ -39,6 +39,8 @@ The following are some global research internship positions:
 30. [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
 31. [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
 32. [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
+33. [Summer Training Program,CNIO] (https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+34. [ITRI Global Internship program] (https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
 
 The following are some research internships for Indian students:
 
@@ -68,4 +70,5 @@ The following are some research internships for Indian students:
 22. [Eklavya research internship by IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/).
 23. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
 24. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
+
 
