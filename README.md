@@ -39,6 +39,8 @@ The following are some global research internship positions:
 30. [Summer Research Program, Princeton University](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=Juniors&field_division_value=Engineering)
 31. [UX Research Internship, Red Hat](https://us-redhat.icims.com/jobs/83084/remote-us-nc/job)
 32. [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
+33. [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+34. [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
 
 The following are some research internships for Indian students:
 
@@ -62,8 +64,6 @@ The following are some research internships for Indian students:
 16. [Hackerrank SDE intern](https://breakinghierarchy.com/hackerrank-sde-intern/)
 17. [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 18. [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/), IISER Kolkata
-
-### IITs
 19. [IITM Summer Fellowship Programme](https://sfp.iitm.ac.in), IIT Madras
 20. [IITD GIPEDI](https://web.iitd.ac.in/~subrat/SummerInternshipRules.htm), IIT Delhi
 21. [IITB Research Internship Award](http://www.iitb.ac.in/en/education/research-internship), IIT Bombay
