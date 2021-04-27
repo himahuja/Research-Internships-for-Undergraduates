@@ -32,7 +32,7 @@ The following are some global research internship positions:
 25. [OIST Research Internship Program](https://groups.oist.jp/grad/research-interns), Okinawa Institute of Science and Technology
 26. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
 27. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
-28. The Smithsonian Institution Fellowship Program (SIFP)(https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
+28. [The Smithsonian Institution Fellowship Program (SIFP)](https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
 27. [Data Visualization Programming Summer Student Internship in New York City](https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue/Data-Visualization-Intern--SCC_R0000579), Flatiron Institute.
 28. [Summer Intern at the Kupcinet Getz International Summer Science School of the Weizmann Institute of Science](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 29. [Aalto Science Institute (AScI) Summer Trainees 2021](https://www.aalto.fi/en/open-positions/aalto-science-institute-asci-summer-trainees-2021)
@@ -41,6 +41,9 @@ The following are some global research internship positions:
 32. [Allen Institute for AI, Research and Engineering Internships](https://allenai.org/internships)
 33. [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
 34. [ITRI Global Internship program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)
+35. International Student Research Internship Program - [McKelvey School of Engineering](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html)
+36. Campus France - [Charpak Lab Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship)
+37. Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
 
 The following are some research internships for Indian students:
 
