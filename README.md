@@ -44,6 +44,7 @@ The following are some global research internship positions:
 35. International Student Research Internship Program - [McKelvey School of Engineering](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html)
 36. Campus France - [Charpak Lab Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship)
 37. Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
+38. [BioChemCoRe](https://biochemcore.ucsd.edu/)s (Biology and Chemistry Computational Research), Amaro Lab, UC San Diego 
 
 The following are some research internships for Indian students:
 
