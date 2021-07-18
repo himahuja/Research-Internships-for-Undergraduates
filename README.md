@@ -44,7 +44,7 @@ The following are some global research internship positions:
 35. International Student Research Internship Program - [McKelvey School of Engineering](https://engineering.wustl.edu/academics/undergraduate-research/international-student-research-internship-program.html)
 37. Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
 38. [BioChemCoRe](https://biochemcore.ucsd.edu/) (Biology and Chemistry Computational Research), Amaro Lab, UC San Diego 
-
+39. [Global Research Experience in Advanced Technologies (GREAT) Program, UC Davis](https://great.ucdavis.edu/)
 The following are some research internships for Indian students:
 
 1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
