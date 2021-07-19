@@ -7,6 +7,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 The following are some global research internship positions:
 
 1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+2. [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
 5. ~~CRUISE Program by Georgia Tech University~~
