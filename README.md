@@ -53,14 +53,13 @@ The following are some global research internship positions:
 44. [ISTernship Summer Program (Austria)](https://phd.pages.ist.ac.at/isternship/) (Note: Indian students not eligible)
 45. [UNSW Research Internship (Australia)](https://www.science.unsw.edu.au/student-life/student-opportunities/research-internships)
 46. [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
-47. [Caltech SURF Programme](http://sfp.caltech.edu/programs/surf)
-48. [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
-49. [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
-50. [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
-51. [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
-52. [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
-53. [OECD Internship Programme (France)](https://www.oecd.org/careers/internship-programme/)
-54. [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
+47. [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
+48. [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
+49. [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
+50. [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
+51. [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
+52. [OECD Internship Programme (France)](https://www.oecd.org/careers/internship-programme/)
+53. [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
 
 The following are some research internships for Indian students:
 
