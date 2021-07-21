@@ -91,3 +91,4 @@ The following are some research internships for Indian students:
 24. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
 25. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
 26. [Bhaba Atomic Research Centre](http://www.barc.gov.in/student/)
+27. [ISI Kolkata Summer Internship](https://www.isical.ac.in/~rcbose/internship/index.html)
