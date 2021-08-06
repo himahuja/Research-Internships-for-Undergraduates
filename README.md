@@ -6,7 +6,7 @@ I am making this list as an attempt to fill the void of any such open source lis
 
 The following are some global research internship positions:
 
-1.  [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+1.  [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 2. [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
 3. [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)
 4. [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
@@ -23,7 +23,7 @@ The following are some global research internship positions:
 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
 16. [CERN Summer Student Program](https://careers.cern/summer)  
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
-18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
+18. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria (Note: Indian students not eligible)
 19. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
 20. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 21. [Amgen Scholars Program](amgenscholars.com/asia-program)
@@ -46,9 +46,22 @@ The following are some global research internship positions:
 37. Luddy School of Informatics, Computing, and Engineering - [Global Talent Attraction Program (GTAP)](https://luddy.indiana.edu/research/student-research/fellowship.html)
 38. [BioChemCoRe](https://biochemcore.ucsd.edu/) (Biology and Chemistry Computational Research), Amaro Lab, UC San Diego 
 39. [Global Research Experience in Advanced Technologies (GREAT) Program, UC Davis](https://great.ucdavis.edu/)
-40. [UC Berkeley Amgen Scholars program](https://amgenscholars.berkeley.edu/)
-41. [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
-42. [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
+40. [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
+41. [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
+42. [TEEP@Asia (Taiwan)](https://teep.studyintaiwan.org/programs/Engineering)
+43. [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
+45. [UNSW Research Internship (Australia)](https://www.science.unsw.edu.au/student-life/student-opportunities/research-internships)
+46. [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
+47. [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
+48. [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
+49. [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
+50. [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
+51. [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
+52. [OECD Internship Programme (France)](https://www.oecd.org/careers/internship-programme/)
+53. [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
+54. [UC Berkeley Amgen Scholars program](https://amgenscholars.berkeley.edu/)
+55. [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
+56. [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
 
 The following are some research internships for Indian students:
 
@@ -79,3 +92,5 @@ The following are some research internships for Indian students:
 23. [SPARK](http://spark.iitr.ac.in/), IIT Roorkee
 24. [SRIP](https://srip.iitgn.ac.in/info/), IIT Gandhinagar
 25. [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21)[ [Information]](https://www.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202021.pdf), IIT Ropar
+26. [Bhaba Atomic Research Centre](http://www.barc.gov.in/student/)
+27. [ISI Kolkata Summer Internship](https://www.isical.ac.in/~rcbose/internship/index.html)
