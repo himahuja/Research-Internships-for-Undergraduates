@@ -65,7 +65,7 @@ The following are some global research internship positions:
 
 The following are some research internships for Indian students:
 
-1. [S.N. Bose Scholarship](http://iusstf.org/story/53-74-For-Indian-Students.html), sponsored by IUSSTF
+1. [S.N. Bose Scholarship](https://www.iusstf.org/program/sn-bose-scholars-program), sponsored by IUSSTF
 2. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 1. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 2. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
