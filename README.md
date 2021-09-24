@@ -30,7 +30,7 @@ The following are some global research internship positions:
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 23. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
-25. [OIST Research Internship Program](https://groups.oist.jp/grad/research-interns), Okinawa Institute of Science and Technology
+25. [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology
 26. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
 27. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 28. [The Smithsonian Institution Fellowship Program (SIFP)](https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
