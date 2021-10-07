@@ -14,7 +14,7 @@ The following are some global research internship positions:
 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
-9. [SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience
+9. [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
 10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
