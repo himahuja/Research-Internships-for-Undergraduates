@@ -62,6 +62,7 @@ The following are some global research internship positions:
 54. [UC Berkeley Amgen Scholars program](https://amgenscholars.berkeley.edu/)
 55. [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
 56. [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
+57. [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
 
 The following are some research internships for Indian students:
 
