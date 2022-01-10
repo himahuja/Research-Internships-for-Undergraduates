@@ -14,12 +14,12 @@ The following are some global research internship positions:
 6. [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 7. [Summer at EPFL](https://summer.epfl.ch/)
 8. [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
-9. [SPIKE @ UNIST](http://spike.unist.ac.kr/main/main.php), Summer Program for Internship and Korean Experience
+9. [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
 10. [NTHU Summer Internship Program](http://eng-en.web.nthu.edu.tw/files/14-1130-129169,r1447-1.php)
 11. [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 12. [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
 13. [University of Tokyo](http://www.amgenscholars.com/japan-program), Amgen Scholarship Japan (only Bio Tech and Bio-Chem Programs)
-14. [MTBI Summer Program](https://mtbi.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
+14. [QRLSSP Summer Program](https://qrlssp.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
 15. [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
 16. [CERN Summer Student Program](https://careers.cern/summer)  
 17. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
@@ -30,7 +30,7 @@ The following are some global research internship positions:
 22. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
 23. [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
 24. [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students)
-25. [OIST Research Internship Program](https://groups.oist.jp/grad/research-interns), Okinawa Institute of Science and Technology
+25. [OIST Research Internship Program](https://admissions.oist.jp/oist-research-internship-program-description), Okinawa Institute of Science and Technology
 26. [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
 27. [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/)
 28. [The Smithsonian Institution Fellowship Program (SIFP)](https://www.smithsonianofi.com/fellowship-opportunities/smithsonian-institution-fellowship-program/)
@@ -63,6 +63,7 @@ The following are some global research internship positions:
 55. [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
 56. [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
 57. [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
+58. [TEEP Internship, Taiwan](https://www.roc-taiwan.org/in_en/post/2749.html)
 
 The following are some research internships for Indian students:
 
@@ -71,7 +72,7 @@ The following are some research internships for Indian students:
 1. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
 2. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 3. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
-4. [NTU-India Connect](http://global.ntu.edu.sg/GMP/ic/Pages/default.aspx), sponsored by NTU
+4. [NTU-India Connect](https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu), sponsored by NTU
 5. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 6. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
 7. [IBM Blue Mix](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101) Research Internship
