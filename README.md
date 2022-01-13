@@ -28,7 +28,7 @@ The following are some global research internship positions:
 20. [CERN Summer Student Program](https://careers.cern/summer)  
 21. [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
 22. [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria (Note: Indian students not eligible)
-23. [CalTech SURF Program](https://www.sfp.caltech.edu/programs/surf/application_information)
+23. [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
 24. [TIGP-IIP](https://tigpsip.apps.sinica.edu.tw/index.php), Academia Sincia, Taiwan
 25. [Amgen Scholars Program](amgenscholars.com/asia-program)
 26. [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
