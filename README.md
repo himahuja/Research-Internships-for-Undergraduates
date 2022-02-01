@@ -84,7 +84,7 @@ AUSTRIA
 
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria (Note: Indian students not eligible)
   
-HONK KONG 
+HONG KONG 
 
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
