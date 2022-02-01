@@ -90,7 +90,7 @@ HONK KONG
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
 
-AUTRALIA
+AUSTRALIA
 
   * [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
   * [UNSW Research Internship (Australia)](https://www.science.unsw.edu.au/student-life/student-opportunities/research-internships)
