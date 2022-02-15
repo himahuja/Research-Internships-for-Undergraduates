@@ -134,7 +134,7 @@ The following are some research internships for Indian students:
 11. [IBM Extreme Blue](http://www-07.ibm.com/employment/in/students/extreme-blue/index.html) (limited to IITs and NITs)
 12. [LIGO IndiGo](http://jobs.gw-indigo.org/tiki-index.php?page=LIGO-IndIGO+Summer+Students+Program) at CalTech, funded by US NSF
 13. [IIITD Summer Internship](https://www.iiitd.ac.in/placement/internships), IIIT, New Delhi
-14. [Summer Research Fellowship Programme 2021](https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp), IISc, IAS, INS
+14. [Summer Research Fellowship Programme 2021](https://webjapps.ias.ac.in/fellowship2022/index.html), IISc, IAS, INS
 15. [Quantitative Research Summer Internship](https://websim.worldquantchallenge.com/en/cms/wqc/summerprograms/india/), WorldQuant India
 16. [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 17. [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
