@@ -9,7 +9,6 @@ The following are some global research internship positions:
 CANADA
 
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-  * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
 
 US
 
@@ -58,6 +57,7 @@ UK
 INDIA
 
   * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
+  * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
 
 SOUTH KOREA
 
