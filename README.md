@@ -32,6 +32,7 @@ US
   * [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
   * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
+  * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
 SWITZERLAND
 
@@ -40,6 +41,7 @@ SWITZERLAND
   * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
   * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
   * [Summer at EPFL](https://summer.epfl.ch/)
+  * [Swissnex Program](https://swissnex.org/india/thinkswiss/)
 
 GERMANY
   
