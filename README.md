@@ -84,7 +84,7 @@ JAPAN
 
 AUSTRIA
 
-  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria (Note: Indian students not eligible)
+  * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
   
 HONG KONG 
 
