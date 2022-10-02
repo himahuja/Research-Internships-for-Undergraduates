@@ -66,6 +66,7 @@ SOUTH KOREA
   * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
   * [SPIKE@UNIST (South Korea)](https://spike.unist.ac.kr:10449/02_learn/learn03.php)
   * [GIST Global Internship Program (South Korea)](https://www.gist.ac.kr/en/html/sub07/0702.html)
+  * [Research internship @ Yonsei University](https://summer.yonsei.ac.kr/home/program/internship02.asp)
 
 TAIWAN
 
