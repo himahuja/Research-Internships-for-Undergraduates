@@ -114,6 +114,9 @@ SAUDI ARABIA
 
   * [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
 
+RUSSIA
+  * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
+
 MULTIPLE COUNTRIES
 
   * [IPAM UCLA, RIPS Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
