@@ -13,7 +13,7 @@ CANADA
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
 
 US
-
+  * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/)
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
