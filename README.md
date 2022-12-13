@@ -10,10 +10,10 @@ The following are some global research internship positions:
 
 CANADA
 
-  * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (Deadline Passed)
 
 US
-  * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
+  * ~~[LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.~~ (Deadline Passed)
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
@@ -38,11 +38,11 @@ US
 
 SWITZERLAND
 
-  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
+  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) `Deadline: 15th December 2022`
   * [CERN Summer Student Program](https://careers.cern/summer)  
   * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
-  * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
-  * [Summer at EPFL](https://summer.epfl.ch/)
+  * ~~[E3, EPFL (Switzerland)](https://eee.epfl.ch/)~~(Deadline Passed)
+  * ~~[Summer at EPFL](https://summer.epfl.ch/)~~ (Deadline Passed)
   * [Swissnex Program](https://swissnex.org/india/thinkswiss/)
 
 GERMANY
