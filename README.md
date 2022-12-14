@@ -63,7 +63,7 @@ INDIA
 
   * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
   * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
-
+   *[NITI Aayog Internship](https://www.niti.gov.in/internship) Undergraduate/postgraduate students or research scholars enrolled in recognized universities/institutions in India and abroad can apply for the NITI Aayog Internship Scheme. They will work closely with NITI's verticals/divisions/cells. Applicants will have to apply online by filling up the registration form.Application open every month 1-10th .
 SOUTH KOREA
 
   * [SPIKE @ UNIST](https://spike.unist.ac.kr:10449/02_learn/learn03.php), Summer Program for Internship and Korean Experience
