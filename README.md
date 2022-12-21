@@ -16,8 +16,8 @@ US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
-  * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU
-  * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU
+  * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
+  * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
   * [QRLSSP Summer Program](https://qrlssp.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
@@ -117,6 +117,7 @@ SAUDI ARABIA
   * [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
 
 RUSSIA
+
   * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
 
 MULTIPLE COUNTRIES
@@ -159,3 +160,4 @@ The following are some research internships for Indian students:
 29. [Bhaba Atomic Research Centre](http://www.barc.gov.in/student/)
 30. [ISI Kolkata Summer Internship](https://www.isical.ac.in/~rcbose/internship/index.html)
 31. [IIT (ISM) Dhanbad SRIP Programme](https://www.iitism.ac.in/deans/research/SRIP.php)
+32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
