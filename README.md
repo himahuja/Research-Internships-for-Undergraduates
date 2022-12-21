@@ -98,7 +98,7 @@ HONG KONG
 AUSTRALIA
 
   * [UNSW Civil and Environmental Engineering Research Internship](https://www.engineering.unsw.edu.au/civil-engineering/study-with-us/international-exchange/research-internship-to-unsw-for-international-students) 
-  * [UNSW Research Internship (Australia)](https://www.science.unsw.edu.au/student-life/student-opportunities/research-internships)
+  * [UNSW Research Internship (Australia)](https://www.unsw.edu.au/science/student-life-resources/student-opportunities/research-integrated-learning)
 
 ISRAEL
 
