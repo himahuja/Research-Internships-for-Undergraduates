@@ -161,3 +161,4 @@ The following are some research internships for Indian students:
 30. [ISI Kolkata Summer Internship](https://www.isical.ac.in/~rcbose/internship/index.html)
 31. [IIT (ISM) Dhanbad SRIP Programme](https://www.iitism.ac.in/deans/research/SRIP.php)
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
+33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
