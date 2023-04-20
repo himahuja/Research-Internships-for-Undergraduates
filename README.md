@@ -11,6 +11,7 @@ The following are some global research internship positions:
 CANADA
 
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
 US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
@@ -90,7 +91,7 @@ AUSTRIA
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
   
 HONG KONG 
-
+  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
@@ -134,7 +135,7 @@ The following are some research internships for Indian students:
 2. [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
 3. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 4. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
-5. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
+5. [Viterbi India Program](https://iusstf.org/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 6. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
 8. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 9. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
