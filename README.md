@@ -108,6 +108,7 @@ ISRAEL
 SPAIN
 
  * [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+ * [ Computer Vision Center Internship Program](https://www.cvc.uab.es/internship/)
 
 FRANCE
 
