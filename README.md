@@ -118,6 +118,14 @@ SAUDI ARABIA
 
   * [KAUST (Saudi Arabia)](https://vsrp.kaust.edu.sa/)
 
+United Arab Emirates
+
+  * [Research internship program for AI](https://mbzuai.ac.ae/ugrip/)
+
+Turkey
+
+  * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
+
 RUSSIA
 
   * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
