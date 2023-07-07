@@ -63,6 +63,7 @@ INDIA
 
   * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
   * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
+  * [INSA-IASc-NASI SRFP](https://www.ias.ac.in) for undergraduate and postgraduate students in Chemistry, Earth and Planetary sciences, Engineering including computer sciences, Life sciences, mathematics and physics. The fellowship period is 56 days and is quite prestigious for anyone who wishes to go into the field of research.
 
 SOUTH KOREA
 
