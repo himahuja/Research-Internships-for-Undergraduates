@@ -1,6 +1,6 @@
 # Research Internships for Undergraduates
 
-## Looking for someone to co-manage this repository.
+## Looking for someone to manage this repository in exchange for mentorship. [Apply here](https://forms.gle/BhCrhXE8ZYsG7zw9A)
 
 #### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
 
