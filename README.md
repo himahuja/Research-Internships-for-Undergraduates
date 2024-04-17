@@ -19,7 +19,7 @@ US
   * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
   * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
-  * [QRLSSP Summer Program](https://qrlssp.asu.edu/summerprogram), Arizona State University: Only for US Citizens / Permanent Residents
+  * [QRLSSP Summer Program](https://mcmsc.asu.edu/institutes/qrlssp), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
   * [CalTech SURF Program](https://sfp.caltech.edu/undergraduate-research/programs/surf/application_information)
   * [Space Astronomy Summer Program, Space Telescope Science Institute (STScI)](http://www.stsci.edu/opportunities/space-astronomy-summer-program)
