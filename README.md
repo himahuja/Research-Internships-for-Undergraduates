@@ -175,3 +175,4 @@ The following are some research internships for Indian students:
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
 33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
 33. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
+34. [Prof. G.S. Ramaswamy Summer Internship, CSIR-SERC Chennai](https://serc.res.in/professor-gs-ramaswamy-internship-undergraduate-dual-degree-students), for civil/mechanical engineering students
