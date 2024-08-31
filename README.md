@@ -132,6 +132,10 @@ Turkey
 Indonesia
   * [Institut Teknologi Sepuluh Nopember Lab-Based Internship](https://www.its.ac.id/international/experiencing-its/prospective-student/admission/internship/)
 
+Thailand
+  * [Faculty of Engineering Kasetsart University internship/training/research programs](https://en.eng.ku.ac.th/?page_id=67)
+  * [Faculty of Engineering King Mongkut University of North Bangkok Exchange/internship programs](https://www.eng.kmutnb.ac.th/ciep/?page_id=2550)
+
 RUSSIA
 
   * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
