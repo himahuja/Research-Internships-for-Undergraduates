@@ -127,6 +127,14 @@ United Arab Emirates
 Turkey
 
   * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
+  * [Sabancı Üniversitesi PURE Summer Research Program](https://pure.sabanciuniv.edu/)
+
+Indonesia
+  * [Institut Teknologi Sepuluh Nopember Lab-Based Internship](https://www.its.ac.id/international/experiencing-its/prospective-student/admission/internship/)
+
+Thailand
+  * [Faculty of Engineering Kasetsart University internship/training/research programs](https://en.eng.ku.ac.th/?page_id=67)
+  * [Faculty of Engineering King Mongkut University of North Bangkok Exchange/internship programs](https://www.eng.kmutnb.ac.th/ciep/?page_id=2550)
 
 RUSSIA
 
