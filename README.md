@@ -38,7 +38,7 @@ US
 
 SWITZERLAND
 
-  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html) 
+  * [Research fellowship at ETH Zurich](https://www.inf.ethz.ch/studies/summer-research-fellowship.html)  - Application closed
   * [CERN Summer Student Program](https://careers.cern/summer)  
   * [CERN OpenLab for Computer Science Undergraduates](https://openlab.cern/education)
   * [E3, EPFL (Switzerland)](https://eee.epfl.ch/)
