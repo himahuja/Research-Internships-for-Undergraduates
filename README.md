@@ -11,7 +11,7 @@ The following are some global research internship positions:
 CANADA
 
   * ~~[MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.~~ (NO LONGER AVAILABLE)
-  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
+  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html) (NO LONGER AVAILABLE)
 
 US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
