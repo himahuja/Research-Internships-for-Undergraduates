@@ -87,6 +87,7 @@ JAPAN
   * [NIMS (Japan)](https://www.nims.go.jp/eng/hr-development/internship.html)
   * [Hennge Global Internship Program](https://hennge.com/global/gip.html), for remote internship in a Japan-based tech start-up.
   * [Internet Initiative Japan Internship] (https://www.iijlab.net/en/career/internship.html), for on-site tech internship in Japan.
+  * METI 2025 (https://internshipprogram.go.jp/english)
 
 AUSTRIA
 
