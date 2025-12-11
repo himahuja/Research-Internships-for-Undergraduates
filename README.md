@@ -54,6 +54,9 @@ GERMANY
   * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
   * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
 
+FINLAND
+  * [AALTO Summer Internship(3 months)](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme)
+  
 UK
 
   * [DSSGx UK Summer Fellowship](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/), University of Warwick
